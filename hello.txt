@@ -1,4 +1,5 @@
 Hi today is sunday
+tomorrow is monday
 
 Hello from Amazon Linux
 I am working on linux 
