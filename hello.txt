@@ -1,3 +1,5 @@
+Hi today is sunday
+
 Hello from Amazon Linux
 I am working on linux 
 Today is tuesday
