@@ -4,6 +4,7 @@ Today is tuesday
 Hi
 Hello
 Welcome
+<<<<<<< HEAD
 ..
 
 ...
@@ -14,3 +15,8 @@ Welcome
 
 hello 
 I am waiting
+=======
+
+India
+America
+>>>>>>> dev
